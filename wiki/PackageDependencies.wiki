@@ -1,9 +1,8 @@
-#Package depencies and others.
+#summary Adding package dependencies.
 
 = Introduction =
 
-The package dependencies, pre-dependencies, etc.:
-
+This tab manages the package dependencies.
 
 = Details =
 
@@ -16,6 +15,11 @@ This tab provides you an interface for adding package dependencies your applicat
     * Conflicts
     * Replaces
     * Provides
+
+You only need to enter the following information:
+    * Package's official name
+    * Package's version and version requirements ( any version, greater than the supplied value etc ).
+    * Package's hierarchal order of requirements ( whether this package must be present or other replacement should be present )
 
 
 http://lh5.google.com/welemski/R4m3e3Zoz1I/AAAAAAAAAEg/rqUHIKlLVsw/PackageDependencies.png?imgmax=720
