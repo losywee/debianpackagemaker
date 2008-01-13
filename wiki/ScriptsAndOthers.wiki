@@ -1,4 +1,4 @@
-Others files.
+#summary Adding misc files.
 
 = Introduction =
 
