@@ -1,0 +1,12 @@
+Others files.
+
+= Introduction =
+
+You can add other misc. files like scripts, changelog etc.
+
+
+= Details =
+
+Just enter the absolute address to the file to be included in the entry widget and hit the add button or you can choose a file using the browser button.
+
+http://lh6.google.com/welemski/R4m3fHZoz3I/AAAAAAAAAEw/ZiK916UVGYE/ScriptManager.png?imgmax=720
