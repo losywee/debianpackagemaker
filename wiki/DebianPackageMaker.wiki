@@ -9,6 +9,7 @@ This wiki page is a simple introductory on how to use the DebianPackageMaker.
 = Details =
 
   * *Adding* files to specified target directory.
+     _instructions on how to add files to be deployed go to TargetDirectory._
   * Adding package information.
   * Adding information for various package dependencies, pre-dependencies, etc.
   * Adding scripts, changelogs , etc.
