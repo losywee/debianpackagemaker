@@ -1,0 +1,16 @@
+#summary One-sentence summary of this page.
+#labels help,howto
+DebianPackageMaker is a simple tool for building debian packages for deploying your linux applications on any debian based distro.
+
+= Introduction =
+
+This wiki page is a simple introductory on how to use the DebianPackageMaker.
+
+
+= Details =
+
+  * *Adding* files to specified target directory.
+  * Adding package information.
+  * Adding information for various package dependencies, pre-dependencies, etc.
+  * Adding scripts, changelogs , etc.
+  * Finaly building your packages.
