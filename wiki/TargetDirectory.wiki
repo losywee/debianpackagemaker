@@ -14,3 +14,5 @@ Select the sources tab and do the following:
     * Choose or add the complete/absolute address to the files/application you want to be copied in to the specified target directory.
     * After satisfying the two requirements above you may click the *Add Sources* button.
     * The next time would be to provide the package information in the *Information Tab*
+
+http://lh4.google.com/welemski/R4m3enZozzI/AAAAAAAAAEQ/Z29-npN-ODc/TargetDirectory.png?imgmax=720
