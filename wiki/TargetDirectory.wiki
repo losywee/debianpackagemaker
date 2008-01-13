@@ -1,4 +1,4 @@
-# Adding files for deployment.
+#summary Adding files for deployment.
 
 = Introduction =
 
