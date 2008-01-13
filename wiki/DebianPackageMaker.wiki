@@ -1,5 +1,5 @@
 #labels help,howto
-DebianPackageMaker is a simple tool for building debian packages for deploying your linux applications on any debian based distro.
+#DebianPackageMaker is a simple tool for building debian packages for deploying your linux applications on any debian based distro.
 
 = Introduction =
 
