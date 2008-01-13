@@ -1,0 +1,21 @@
+#Package depencies and others.
+
+= Introduction =
+
+The package dependencies, pre-dependencies, etc.:
+
+
+= Details =
+
+This tab provides you an interface for adding package dependencies your applications depends on. Same applies to other tabs like:
+
+    * Pre-Depends
+    * Recommends
+    * Suggests
+    * Breaks
+    * Conflicts
+    * Replaces
+    * Provides
+
+
+http://lh5.google.com/welemski/R4m3e3Zoz1I/AAAAAAAAAEg/rqUHIKlLVsw/PackageDependencies.png?imgmax=720
