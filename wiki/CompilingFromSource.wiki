@@ -1,0 +1,43 @@
+#summary How to compile Debian Package Maker source code.
+#labels debian,package,maker,compiling,from,source
+
+= Introduction =
+
+This page will explain how you can compile Debian Package Maker yourself.
+Debian Package Maker was built and compiled using Mono and Monodevelop.
+So compiling from source should be pretty easy.
+
+If you prefer to compile DebianPackageMaker using the generated Makefiles just follow the steps on the Details but before that please read the requirements.
+
+= Requirements =
+*mono-devel*
+       * >= 1.2.4
+       * mono-mcs
+       * mono-gac
+       * mono-utils
+       * mono-jay
+       * mono-gmcs
+
+glib-sharp-2.0
+gtk-sharp-2.0
+*Mono libraries*
+
+= Details =
+
+
+* Building Debian Package Maker using Makefiles *
+
+
+    * *step 1* Download the source code first. You can obtain this by going to the _Downloads_ sections by click the Downloads tab above.
+
+    * *step 2* Unpack the source code to a place where you're comfortable at.
+
+    * *step 3* Open terminal/console and got to the source code/project folder.
+
+    * *step 4* Type *_./configure_*  
+          * This will check your system for some libraries and it will tell you what libraries are missing, if so please install them.
+          * optionally you can specify a directory where to install the compiled application by typing *_--prefix=/prefered/path_* you can change the *_/prefered/path_*  to a path of your choice. *_/opt/yourfolder_* is recommended.
+         * If it says *_missing_* or *_no_* to the specified libraries/program please install the missing libraries and repeat *_step 4_*.
+
+    * *step 5* Type *_make_* 
+         * This will compile the sourcecode and see if there are any errors if errors exists then _Huston I think you've got a problem_. If there were no errors then you run Debian Package Maker binary in the *_/bin/release_* folder or you can optionally install it using _sudo make install_ but i recommend you to build a debian package yourself using DebianPackageMaker.
