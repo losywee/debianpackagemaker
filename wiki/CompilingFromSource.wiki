@@ -40,4 +40,7 @@ gtk-sharp-2.0
          * If it says *_missing_* or *_no_* to the specified libraries/program please install the missing libraries and repeat *_step 4_*.
 
     * *step 5* Type *_make_* 
-         * This will compile the sourcecode and see if there are any errors if errors exists then _Huston I think you've got a problem_. If there were no errors then you run Debian Package Maker binary in the *_/bin/release_* folder or you can optionally install it using _sudo make install_ but i recommend you to build a debian package yourself using DebianPackageMaker.
+         * This will compile the sourcecode and see if there are any errors if errors exists then _Huston I think you've got a problem_. If there were no errors you have now options to *run* it or _install_ it, the later is not recommended.
+
+    * *Running* Type *make run*
+         * It should now run if it doesn't make sure compiled it with no errors see _step 4_ and _step 5_.
