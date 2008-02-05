@@ -44,6 +44,6 @@ http://lh3.google.com/welemski/R6hwqhjUo0I/AAAAAAAAAO4/6zSzAy29RdU/SourceMode.pn
     * It will then prompts you and ask you where you would want to save the package.
     * It will then redirect you to the Logs tab.
 
-http://lh4.google.com/welemski/R6hwgxjUoxI/AAAAAAAAAOg/asGccG6yW8M/Logs.png?imgmax=640
+http://lh6.google.com/welemski/R6iWPRjUo4I/AAAAAAAAAQ8/RgkNcOTkOZo/BuildingFromSource.png?imgmax=640
 
 *If everything is ok from configuring to compiling it should build a debian package.
