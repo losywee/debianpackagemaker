@@ -24,3 +24,5 @@ TargetMode assumes that you have the necessary Linux binaries/resources that you
 
 
 http://lh4.google.com/welemski/R6hwqxjUo2I/AAAAAAAAAPI/h3Z_stHspOo/s400/TargetMode.png
+
+*[http://code.google.com/p/debianpackagemaker/wiki/PackageDependencies Provide Package Dependencies]*
