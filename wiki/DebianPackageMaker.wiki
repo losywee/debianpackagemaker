@@ -8,7 +8,7 @@ This wiki page is a simple introductory on how to use the DebianPackageMaker.
 
 = HOW TO =
 
-    * *[http://code.google.com/p/debianpackagemaker/wiki/TargetMode Build Package Using Target Mode*
+    * *[http://code.google.com/p/debianpackagemaker/wiki/TargetMode Build Package Using Target Mode]*
 
     * *[http://code.google.com/p/debianpackagemaker/wiki/SourceMode Build Package Using Source Mode]*
 
