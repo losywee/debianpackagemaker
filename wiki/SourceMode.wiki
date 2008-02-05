@@ -22,3 +22,15 @@ Please be informed that configuring and compiling from source will take a lot of
     * By defaulat DebianPackageMaker is set to TargetMode in order to build a package from source you must switch it to SourceMode by clicking the toggle button in the file menu.
 
 http://lh3.google.com/welemski/R6hwqhjUo1I/AAAAAAAAAPA/MNB3dF1c00Y/SourceModeToggle.png
+
+    * You will then be prompted with a dialog about SourceMode.
+
+http://lh5.google.com/welemski/R6hwWBjUoqI/AAAAAAAAANo/uJPwHXS7CrM/AboutSourceMode.png?imgmax=144
+
+*2 Select a source/project directory*
+    * You can do this by manually typing it or using the "Directory Chooser Button" just beside the project/source directory entry.
+
+*3 Provide installation directory*
+   * Provide an absolute address as to where the application will be installed in the _Installation Directory_ entry.
+
+http://lh3.google.com/welemski/R6hwqhjUo0I/AAAAAAAAAO4/6zSzAy29RdU/SourceMode.png?imgmax=640
