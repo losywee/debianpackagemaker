@@ -1,0 +1,24 @@
+#summary Adding package dependencies
+
+= Introduction =
+
+Any application might require a certain package or packages in order for it run.
+These dependencies are then automatically downloaded as necessary if it does not exists on the user's system.
+
+*NOTE:*
+    * This rules/how to also applies to other information such as:
+         *_Pre-dependencies_
+         *_Recommends_
+         *_Suggests_
+         *_Breaks_
+         *_Conflicts_
+         *_Replaces_
+         *_Provides_
+
+
+= Details =
+
+Add your content here.  Format your content with:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
