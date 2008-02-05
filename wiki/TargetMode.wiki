@@ -13,14 +13,14 @@ Most official debian package usually installs their resources/binaries int _"/us
 TargetMode assumes that you have the necessary Linux binaries/resources that you would need to install. Follow the steps below:
 
 *1 Where to install*
-    *You must provide an absolute address to where your binaries/resources should be installed in the *Installation Directory Entry*.
+    * You must provide an absolute address to where your binaries/resources should be installed in the *Installation Directory Entry.*
     *Example: _"/usr/share/debianpackagemaker"_.
 
 *2 File(s) To Be Installed*
-    *You must provide an absolute address to one or all of the files you want it to be installed on the specified installation directory in the *Files to be installed entry*
+    * You must provide an absolute address to one or all of the files you want it to be installed on the specified installation directory in the *Files to be installed entry*
 
 *3 Add the files*
-    *Simple click the *Add installation structures* button to add the specified file to the lists of files to installed.
+    * Simple click the *Add installation structures* button to add the specified file to the lists of files to installed.
 
 
 http://lh4.google.com/welemski/R6hwqxjUo2I/AAAAAAAAAPI/h3Z_stHspOo/s400/TargetMode.png
