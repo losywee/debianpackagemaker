@@ -14,6 +14,7 @@ Please be informed that configuring and compiling from source will take a lot of
      * _Source mode requires that the source/project you're going to build a package from must contain a configure scripts ( configure/autogen ), Makefiles and set of rules._
      * _Those scripts will be used for configuring and compiling of sources._
      * _Install script must also exists for Debian Package Maker to successfully create a debian based package._
+     * _All the necessary libraries/developement libraries that are required in your source/project must be installed or DebianPackageMaker will fail to compile and build a package from the source. Please consult the readme files of your source/project.
 
 
 = Build a debian package using SourceMode =
@@ -36,3 +37,13 @@ http://lh5.google.com/welemski/R6hwWBjUoqI/AAAAAAAAANo/uJPwHXS7CrM/AboutSourceMo
 http://lh3.google.com/welemski/R6hwqhjUo0I/AAAAAAAAAO4/6zSzAy29RdU/SourceMode.png?imgmax=640
 
 *[http://code.google.com/p/debianpackagemaker/wiki/PackageDependencies 4 Provide Package Dependencies]
+    * Click the link above for instructions on how to add pacakge dependencies.
+
+*5 Build the package*
+    * When you're done providing the necessary information for your package you may then click the Create Package button.
+    * It will then prompts you and ask you where you would want to save the package.
+    * It will then redirect you to the Logs tab.
+
+http://lh4.google.com/welemski/R6hwgxjUoxI/AAAAAAAAAOg/asGccG6yW8M/Logs.png?imgmax=640
+
+*If everything is ok from configuring to compiling it should build a debian package.
