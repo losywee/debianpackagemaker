@@ -18,7 +18,7 @@ Please be informed that configuring and compiling from source will take a lot of
 
 = Build a debian package using SourceMode =
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+*1 Switch to SourceMode*
+    * By defaulat DebianPackageMaker is set to TargetMode in order to build a package from source you must switch it to SourceMode by clicking the toggle button in the file menu.
+
+http://lh3.google.com/welemski/R6hwqhjUo1I/AAAAAAAAAPA/MNB3dF1c00Y/SourceModeToggle.png
