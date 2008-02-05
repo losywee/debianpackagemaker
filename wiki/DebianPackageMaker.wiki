@@ -8,13 +8,8 @@ This wiki page is a simple introductory on how to use the DebianPackageMaker.
 
 = HOW TO =
 
-    * *Build package using target mode*
-          * _TargetMode_
+    * *[http://code.google.com/p/debianpackagemaker/wiki/TargetMode Build Package Using Target Mode*
 
-    * *Build package using source mode*
-          * _SourceMode_
+    * *[http://code.google.com/p/debianpackagemaker/wiki/SourceMode Build Package Using Source Mode]*
 
-    * *Compile Debian Package Maker Yourself*
-          * [http://code.google.com/p/debianpackagemaker/wiki/CompilingFromSource CompilingFromSource]
-    
-    * *Frequen
+    * *[http://code.google.com/p/debianpackagemaker/wiki/CompilingFromSource Compiling From Source]*
