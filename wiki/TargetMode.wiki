@@ -1,0 +1,13 @@
+#summary Build package using target mode
+
+= Introduction =
+
+Building a debian package using target mode is simply manually instructing DebianPackageMaker where to copy/install files into what Linux directory.
+_e.g.: "/usr","/usr/local" etc._
+
+Most official debian package usually installs their resources/binaries int _"/usr"_ but most of the time you would usually install it in _"/usr/local"_ to prevent in conflicts with the main packages in your system.
+
+
+= Details =
+
+TargetMode assumes that you have the necessary Linux binaries/resources that you would need to install.
