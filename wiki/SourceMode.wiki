@@ -25,7 +25,7 @@ http://lh3.google.com/welemski/R6hwqhjUo1I/AAAAAAAAAPA/MNB3dF1c00Y/SourceModeTog
 
     * You will then be prompted with a dialog about SourceMode.
 
-http://lh5.google.com/welemski/R6hwWBjUoqI/AAAAAAAAANo/uJPwHXS7CrM/AboutSourceMode.png?imgmax=144
+http://lh5.google.com/welemski/R6hwWBjUoqI/AAAAAAAAANo/uJPwHXS7CrM/AboutSourceMode.png?imgmax=400
 
 *2 Select a source/project directory*
     * You can do this by manually typing it or using the "Directory Chooser Button" just beside the project/source directory entry.
