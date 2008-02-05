@@ -8,6 +8,11 @@ This wiki page is a simple introductory on how to use the DebianPackageMaker.
 
 = HOW TO =
 
-    * Build package using target mode*
-    * Build package using source mode*
-    * Compile Debian Package Maker Yourself*
+    * *Build package using target mode*
+          *_TargetMode_
+
+    * *Build package using source mode*
+          *_SourceMode_
+
+    * *Compile Debian Package Maker Yourself*
+          *_CompilingFromSource_
