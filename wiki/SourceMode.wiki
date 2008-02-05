@@ -1,0 +1,24 @@
+#summary Building a debian package using the source/project.
+
+= Introduction =
+
+Building a debian package using source mode is simply building a package out from a source or project. This mode requires you to be patient enough as DebianPackageMaker will do the following for you:
+
+     * Configure the sources/project to be compiled.
+     * Compile the source/project for you.
+     * And build a debian package after.
+
+Please be informed that configuring and compiling from source will take a lot of time depending on the size/numbers of sourcess/libraries that are needed to be configured and compiled.
+
+*NOTE :*
+     * _Source mode requires that the source/project you're going to build a package from must contain a configure scripts ( configure/autogen ), Makefiles and set of rules._
+     * _Those scripts will be used for configuring and compiling of sources._
+     * _Install script must also exists for Debian Package Maker to successfully create a debian based package._
+
+
+= Details =
+
+Add your content here.  Format your content with:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
