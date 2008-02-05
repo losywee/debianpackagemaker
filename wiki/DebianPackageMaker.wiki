@@ -13,3 +13,5 @@ This wiki page is a simple introductory on how to use the DebianPackageMaker.
     * *[http://code.google.com/p/debianpackagemaker/wiki/SourceMode Build Package Using Source Mode]*
 
     * *[http://code.google.com/p/debianpackagemaker/wiki/CompilingFromSource Compiling From Source]*
+  
+    * *[http://code.google.com/p/debianpackagemaker/wiki/FAQ Frequently Asked Question]
