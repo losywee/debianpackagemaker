@@ -14,7 +14,7 @@ TargetMode assumes that you have the necessary Linux binaries/resources that you
 
 *1 Where to install*
     * You must provide an absolute address to where your binaries/resources should be installed in the *Installation Directory Entry.*
-    *Example: _"/usr/share/debianpackagemaker"_.
+    * Example: _"/usr/share/debianpackagemaker"_.
 
 *2 File(s) To Be Installed*
     * You must provide an absolute address to one or all of the files you want it to be installed on the specified installation directory in the *Files to be installed entry*
@@ -32,7 +32,7 @@ http://lh4.google.com/welemski/R6hwqxjUo2I/AAAAAAAAAPI/h3Z_stHspOo/s400/TargetMo
 http://lh5.google.com/welemski/R6hwhBjUoyI/AAAAAAAAAOo/Vhd39Hzul7g/s400/PackageInfo.png
 
 *5 [http://code.google.com/p/debianpackagemaker/wiki/PackageDependencies Provide Package Dependencies]*
-    *Click the link above for instruction on how to add package dependencies.
+    * Click the link above for instruction on how to add package dependencies.
 
 
 *6 Provide scripts ( this is optional you may skip to step 7 )*
