@@ -1,0 +1,6 @@
+#summary Frequently Asked Question
+
+*Why your application is very confusing compared to _dh_make_ and _dpkg-buildpackage_*
+    * It would be wise not to compare *DebianPackageMaker* with dh_make as it does not uses dh_make. It uses *dpkg-buildpackage* entirely even when building from source.
+    * It is expected in every application that one or many will be confused as to how to used it. I doubt it if you're not confused as to how to use *dh_make* from the first time.
+    * There's always *first time* for everything that is why the *Help* button and the *Wiki* page was invented to help you do things.
