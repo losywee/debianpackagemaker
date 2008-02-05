@@ -34,3 +34,5 @@ http://lh5.google.com/welemski/R6hwWBjUoqI/AAAAAAAAANo/uJPwHXS7CrM/AboutSourceMo
    * Provide an absolute address as to where the application will be installed in the _Installation Directory_ entry.
 
 http://lh3.google.com/welemski/R6hwqhjUo0I/AAAAAAAAAO4/6zSzAy29RdU/SourceMode.png?imgmax=640
+
+*[http://code.google.com/p/debianpackagemaker/wiki/PackageDependencies 4 Provide Package Dependencies]
