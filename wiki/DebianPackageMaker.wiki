@@ -15,4 +15,6 @@ This wiki page is a simple introductory on how to use the DebianPackageMaker.
           * _SourceMode_
 
     * *Compile Debian Package Maker Yourself*
-          * _CompilingFromSource_
+          * [http://code.google.com/p/debianpackagemaker/wiki/CompilingFromSource CompilingFromSource]
+    
+    * *Frequen
