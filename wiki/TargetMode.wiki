@@ -35,8 +35,16 @@ http://lh5.google.com/welemski/R6hwhBjUoyI/AAAAAAAAAOo/Vhd39Hzul7g/s400/PackageI
     *Click the link above for instruction on how to add package dependencies.
 
 
-*6 Provide scripts ( optional you may skip to step 7 )*
+*6 Provide scripts ( this is optional you may skip to step 7 )*
     * You may provide the necessary scripts to your package.
     * These scripts will be used/call during installation and/or uninstallation.
 
 *7 Build the package*
+    * When you're done providing the necessary information for your package you may then click the *Create Package* button.
+
+http://lh6.google.com/welemski/R6hwWRjUouI/AAAAAAAAAOI/MzrsUX2Sy88/s400/CreatePackageButton.png
+
+    * It will then prompts you a save as dialog box asks you where you would like to save the package.
+    * If you clicked the save button DPM should display the "Log" tab informing you of the current building process.
+
+http://lh4.google.com/welemski/R6hwgxjUoxI/AAAAAAAAAOg/asGccG6yW8M/s400/Logs.png
