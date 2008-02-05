@@ -9,3 +9,15 @@
      * To you it is trivial maybe but to me it is not.
      * I am very new to Linux OS specially the CLI.
      * I found many applications and games for linux that are free but not all of them are built for a specific distro. Configuring and compiling and running it everytime on CLI would be tedious compared to an application that is integrated on the system in which it is managed by the systems specific package manager. In that way it will be easy to upgrade and track the changes and prevents from any conflicts.
+
+
+*Looks like you need help, can I help?*
+     * Any help would be much appreciated.
+     * Im just using one specific arch. and distro it would be great if you can help me build packages for other distros too.
+     * Language translation is also needed assuming that this application is useful enough that others might want it in their own language of choice.
+     * Like I said I am new to Linux OS if you can help me debianized my project or help me make DebianPackageMaker to be able to debianized a source/project would be much appriated.
+
+*How can I contact you?*
+     * You can email to: welemski@gmail.com.
+     * Or join me : [http://launchpad.net/debianpackagemaker http://launchpad.net/debianpackagemaker].
+     * Or visite this site : [http://code.google.com/p/debianpackagemaker http://code.google.com/p/debianpackagemaker].
