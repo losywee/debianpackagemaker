@@ -25,11 +25,18 @@ TargetMode assumes that you have the necessary Linux binaries/resources that you
 
 http://lh4.google.com/welemski/R6hwqxjUo2I/AAAAAAAAAPI/h3Z_stHspOo/s400/TargetMode.png
 
-*4 [http://code.google.com/p/debianpackagemaker/wiki/PackageDependencies Provide Package Dependencies]*
+*4 Provide the package information*
+    * Every debian package has a meta information used to compare other packages in the user's system to prevent conflicts/version conflicts that may break the user's system.
+    * _Package name,Version,Architecture and Description is_ *mandatory*. the rests are optional.
+
+http://lh5.google.com/welemski/R6hwhBjUoyI/AAAAAAAAAOo/Vhd39Hzul7g/s400/PackageInfo.png
+
+*5 [http://code.google.com/p/debianpackagemaker/wiki/PackageDependencies Provide Package Dependencies]*
     *Click the link above for instruction on how to add package dependencies.
 
-*7 Provide scripts ( optional you may skip to step 7 )*
+
+*6 Provide scripts ( optional you may skip to step 7 )*
     * You may provide the necessary scripts to your package.
     * These scripts will be used/call during installation and/or uninstallation.
 
-*8 Build the package*
+*7 Build the package*
