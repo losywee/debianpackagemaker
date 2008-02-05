@@ -16,7 +16,7 @@ Please be informed that configuring and compiling from source will take a lot of
      * _Install script must also exists for Debian Package Maker to successfully create a debian based package._
 
 
-= Details =
+= Build a debian package using SourceMode =
 
 Add your content here.  Format your content with:
   * Text in *bold* or _italic_
