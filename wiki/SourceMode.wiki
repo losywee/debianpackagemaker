@@ -33,6 +33,7 @@ http://lh5.google.com/welemski/R6hwWBjUoqI/AAAAAAAAANo/uJPwHXS7CrM/AboutSourceMo
 
 *3 Provide installation directory*
    * Provide an absolute address as to where the application will be installed in the _Installation Directory_ entry.
+   * Most official debian package usually installs their resources/binaries in _"/usr"_ but most of the time you would usually install it in _"/usr/local"_ to prevent any conflicts with the main packages in your system.
 
 http://lh3.google.com/welemski/R6hwqhjUo0I/AAAAAAAAAO4/6zSzAy29RdU/SourceMode.png?imgmax=640
 
