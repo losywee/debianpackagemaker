@@ -42,7 +42,7 @@ http://lh3.google.com/welemski/R6hwqhjUo0I/AAAAAAAAAO4/6zSzAy29RdU/SourceMode.pn
     * Every debian package has a meta information used to compare other packages in the user's system to prevent conflicts/version conflicts that may break the user's system.
     * _Package name,Version,Architecture and Description is_ *mandatory*. the rests are optional.
 
-http://lh5.google.com/welemski/R6hwhBjUoyI/AAAAAAAAAOo/Vhd39Hzul7g/s400/PackageInfo.png
+http://lh6.google.com/welemski/R6lalBjUo6I/AAAAAAAAASE/dX0J2oEN060/geckosharpinfo.png?imgmax=640
 
 
 
