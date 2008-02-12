@@ -19,6 +19,6 @@
      * Like I said I am new to Linux OS if you can help me debianized my project or help me make DebianPackageMaker to be able to debianized a source/project would be much appriated.
 
 *How can I contact you?*
-     * You can email to: [maileto: adobongkangkong@gmail.com].
+     * You can email to: adobongkangkong@gmail.com.
      * Or join me : [http://launchpad.net/debianpackagemaker http://launchpad.net/debianpackagemaker].
      * Or visite this site : [http://code.google.com/p/debianpackagemaker http://code.google.com/p/debianpackagemaker].
