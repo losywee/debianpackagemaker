@@ -1,0 +1,56 @@
+# Introduction #
+
+Building a debian package using source mode is simply building a package out from a source or project. This mode requires you to be patient enough as DebianPackageMaker will do the following for you:
+
+  * Configure the sources/project to be compiled.
+  * Compile the source/project for you.
+  * And build a debian package after.
+
+Please be informed that configuring and compiling from source will take a lot of time depending on the size/numbers of sourcess/libraries that are needed to be configured and compiled.
+
+**NOTE :**
+  * _Source mode requires that the source/project you're going to build a package from must contain a configure scripts ( configure/autogen ), Makefiles and set of rules._
+  * _Those scripts will be used for configuring and compiling of sources._
+  * _Install script must also exists for Debian Package Maker to successfully create a debian based package._
+  * _All the necessary libraries/developement libraries that are required in your source/project must be installed or DebianPackageMaker will fail to compile and build a package from the source. Please consult the readme files of your source/project._
+
+
+# Build a debian package using SourceMode #
+
+**1 Switch to SourceMode**
+  * By defaulat DebianPackageMaker is set to TargetMode in order to build a package from source you must switch it to SourceMode by clicking the toggle button in the file menu.
+
+![http://lh3.google.com/welemski/R6hwqhjUo1I/AAAAAAAAAPA/MNB3dF1c00Y/SourceModeToggle.png](http://lh3.google.com/welemski/R6hwqhjUo1I/AAAAAAAAAPA/MNB3dF1c00Y/SourceModeToggle.png)
+
+  * You will then be prompted with a dialog about SourceMode.
+
+http://lh5.google.com/welemski/R6hwWBjUoqI/AAAAAAAAANo/uJPwHXS7CrM/AboutSourceMode.png?imgmax=400
+
+**2 Select a source/project directory**
+  * You can do this by manually typing it or using the "Directory Chooser Button" just beside the project/source directory entry.
+
+**3 Provide installation directory**
+  * Provide an absolute address as to where the application will be installed in the _Installation Directory_ entry.
+  * Most official debian package usually installs their resources/binaries in _"/usr"_ but most of the time you would usually install it in _"/usr/local"_ to prevent any conflicts with the main packages in your system.
+
+http://lh3.google.com/welemski/R6hwqhjUo0I/AAAAAAAAAO4/6zSzAy29RdU/SourceMode.png?imgmax=640
+
+
+**4 Provide the package information**
+  * Every debian package has a meta information used to compare other packages in the user's system to prevent conflicts/version conflicts that may break the user's system.
+  * _Package name,Version,Architecture and Description is_ **mandatory**. the rests are optional.
+
+http://lh6.google.com/welemski/R6lalBjUo6I/AAAAAAAAASE/dX0J2oEN060/geckosharpinfo.png?imgmax=640
+
+
+
+**[5 Provide Package Dependencies](http://code.google.com/p/debianpackagemaker/wiki/PackageDependencies)
+  * Click the link above for instructions on how to add pacakge dependencies.**
+
+**6 Build the package**
+  * When you're done providing the necessary information for your package you may then click the Create Package button.
+  * It will then prompts you and ask you where you would want to save the package.
+  * It will then redirect you to the Logs tab.
+
+http://lh6.google.com/welemski/R6iWPRjUo4I/AAAAAAAAAQ8/RgkNcOTkOZo/BuildingFromSource.png?imgmax=640
+

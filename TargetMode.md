@@ -1,0 +1,48 @@
+# Introduction #
+
+Building a debian package using target mode is simply manually instructing DebianPackageMaker where to copy/install files into what Linux directory.
+_e.g.: "/usr","/usr/local" etc._
+
+Most official debian package usually installs their resources/binaries int _"/usr"_ but most of the time you would usually install it in _"/usr/local"_ to prevent in conflicts with the main packages in your system.
+
+
+# How to build package using TargetMode #
+
+TargetMode assumes that you have the necessary Linux binaries/resources that you would need to install. Follow the steps below:
+
+**1 Where to install**
+  * You must provide an absolute address to where your binaries/resources should be installed in the **Installation Directory Entry.**
+  * Example: _"/usr/share/debianpackagemaker"_.
+
+**2 File(s) To Be Installed**
+  * You must provide an absolute address to one or all of the files you want it to be installed on the specified installation directory in the **Files to be installed entry**
+
+**3 Add the files**
+  * Simple click the **Add installation structures** button to add the specified file to the lists of files to be installed.
+
+
+![http://lh4.google.com/welemski/R6hwqxjUo2I/AAAAAAAAAPI/h3Z_stHspOo/s400/TargetMode.png](http://lh4.google.com/welemski/R6hwqxjUo2I/AAAAAAAAAPI/h3Z_stHspOo/s400/TargetMode.png)
+
+**4 Provide the package information**
+  * Every debian package has a meta information used to compare other packages in the user's system to prevent conflicts/version conflicts that may break the user's system.
+  * _Package name,Version,Architecture and Description is_ **mandatory**. the rests are optional.
+
+![http://lh5.google.com/welemski/R6hwhBjUoyI/AAAAAAAAAOo/Vhd39Hzul7g/s400/PackageInfo.png](http://lh5.google.com/welemski/R6hwhBjUoyI/AAAAAAAAAOo/Vhd39Hzul7g/s400/PackageInfo.png)
+
+**5 [Provide Package Dependencies](http://code.google.com/p/debianpackagemaker/wiki/PackageDependencies)**
+  * Click the link above for instruction on how to add package dependencies.
+
+
+**6 Provide scripts ( this is optional you may skip to step 7 )**
+  * You may provide the necessary scripts to your package.
+  * These scripts will be used/call during installation and/or uninstallation.
+
+**7 Build the package**
+  * When you're done providing the necessary information for your package you may then click the **Create Package** button.
+
+![http://lh6.google.com/welemski/R6hwWRjUouI/AAAAAAAAAOI/MzrsUX2Sy88/s400/CreatePackageButton.png](http://lh6.google.com/welemski/R6hwWRjUouI/AAAAAAAAAOI/MzrsUX2Sy88/s400/CreatePackageButton.png)
+
+  * It will then prompts you a save as dialog box asks you where you would like to save the package.
+  * If you clicked the save button DPM should display the "Log" tab informing you of the current building process.
+
+![http://lh4.google.com/welemski/R6hwgxjUoxI/AAAAAAAAAOg/asGccG6yW8M/s400/Logs.png](http://lh4.google.com/welemski/R6hwgxjUoxI/AAAAAAAAAOg/asGccG6yW8M/s400/Logs.png)
